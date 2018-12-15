@@ -16,5 +16,11 @@ Create a sample CRUD on a list of books( Codeigniter Framework, Jquery, Bootstra
 
 #fitur in this project like : 
 1. Show list of books
-2. Add new data book like this :
-	
+2. Add new book data such as:
+<img src="https://github.com/ridwanfarizki/crud_books/blob/master/assets/img/add.png" style="width:100%"/>
+3. Validation and if you do not follow the rules, an error message will appear
+<img src="https://github.com/ridwanfarizki/crud_books/blob/master/assets/img/validation.png" style="width:100%"/>
+4. Update book data
+<img src="https://github.com/ridwanfarizki/crud_books/blob/master/assets/img/update.png" style="width:100%"/>
+5. Delete book data
+<img src="https://github.com/ridwanfarizki/crud_books/blob/master/assets/img/delete.png" style="width:100%"/>
