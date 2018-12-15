@@ -11,7 +11,7 @@ Create a sample CRUD on a list of books( Codeigniter Framework, Jquery, Bootstra
 	'database' => 'mplus_test',<br>
 	example default. if you make db with name is mplus_test
 4. Run project in your browser. 
-5. if you has been run, will show like this : 
+5. if you have been run, it will show like this : 
 <img src="https://github.com/ridwanfarizki/crud_books/blob/master/assets/img/test.png" style="width:100%"/>
 
 #fitur in this project like : 
