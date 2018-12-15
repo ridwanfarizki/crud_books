@@ -7,12 +7,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<script src="<?php echo base_url('assets/jquery/jquery-2.1.4.min.js'); ?>"></script>	
 	<!--BOOTSTRAP-->
 	<link rel="stylesheet" href="<?php echo base_url('assets/bootstrap/bootstrap.min.css'); ?>">
-	<script src="<?php echo base_url('assets/bootstrap.min.js'); ?>"></script>
+	<script src="<?php echo base_url('assets/bootstrap/bootstrap.min.js'); ?>"></script>
 	<!--BOOTSTRAP DATEPICKER-->
-	<link rel="stylesheet" href="<?php echo base_url('assets/bootstrap/bootstrap-datepicker3.min.css'); ?>">
-	<script src="<?php echo base_url('assets/datepicer/bootstrap-datepicker.min.js'); ?>"></script>
+	<link rel="stylesheet" href="<?php echo base_url('assets/datepicker/bootstrap-datepicker3.min.css'); ?>">
+	<script src="<?php echo base_url('assets/datepicker/bootstrap-datepicker.min.js'); ?>"></script>
 	<!--DATATABLE BOOTSTRAP-->
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/dadatable/dataTables.bootstrap.min.css'); ?>"/>
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/datatable/dataTables.bootstrap.min.css'); ?>"/>
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/datatable/jquery.dataTables.min.css'); ?>"/>
 	
 	<script type="text/javascript" src="<?php echo base_url('assets/datatable/jquery.dataTables.min.js'); ?>"></script>
